@@ -1,0 +1,39 @@
+body {
+	padding: 25px 30px;
+}
+.logo {
+	vertical-align: middle;
+}
+.logo img {
+	height: 22px;
+}
+.navbar{
+	display: inline-block;
+	vertical-align: middle;
+	margin: 0 0 0 20px;
+}
+.navbar li{
+	display: inline-block;
+	margin: 0 10px 0;
+}
+.navbar li a {
+	color: #3D58A6;
+	font-size: 22px;
+}
+.active {
+	color: #EE4036;
+}
+.search-bar {
+	background: red;
+    display: inline-block;
+    width: 300px;
+}
+.text-box {
+	display: inline-block;
+    width: 800px;
+    vertical-align: top;
+    margin: 0 0 0 30px;
+}
+.text-box  p{
+	margin: 0 0 50px;
+}
